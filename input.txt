@@ -1,2 +1,5 @@
-0001John     2500.50
-0002Alice    3200.00
+0001John      2500.50
+0002Alice     3200.00EXTRA
+0003Eve       2700
+ABCDJane      2800.00
+0005Mike      XYZ
